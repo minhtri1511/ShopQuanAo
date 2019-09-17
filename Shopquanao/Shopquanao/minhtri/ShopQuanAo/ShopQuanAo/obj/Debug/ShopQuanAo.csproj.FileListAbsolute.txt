@@ -1,0 +1,88 @@
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Hoang Minh\Desktop\Project C#\www.sharecode.org - WebShopQuanAo3Layers\ShopQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\DESTOP_NEW\Desktop\MrHoang_Shopquanao\MrHoang\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Admin\Desktop\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\DESTOP_NEW\Desktop\Shopquanao-20190917T003326Z-001\Shopquanao\Shopquanao\minhtri\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
