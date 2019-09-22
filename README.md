@@ -41,15 +41,22 @@ FOOTER
 *Giao Diện Mua Hàng:
 ![img](giaodienmuahang.png)
 *Tính Năng Bình Luận Của Khách Hàng:</br>
+-Lưu Dữ Liệu Trong SQL
 ![img](binhluan.png)
 *Muốn Mua Hàng Bắt Buộc Phải Đăng Ký:</br>
 ![img](dangky.png)
 *Đăng Ký Không Thành Công Nếu Thiếu,Sai,Trùng Thông Tin:</br>
 ![img](dangkykhongthanhcong.png)
 *Đăng Ký Thành Công:</br>
-![img](dangkythanhcong.img)
+![img](dang ky thanh cong.img)
 *Đăng Nhập:
-![img](dangnhap.png)
-*Đăng Nhập Thành Công:
-![img](dangnhapthanhcong.png)
+![img](dang nhap.png)
+*Đăng Nhập Thành Công:</br>
+![img](DANG NHAP THANH CONG.png)
+*Chi Tiết Giỏ Hàng:</br>
+![img](CHI TIET GIO HANG.png)
+*Xác Nhận Mua Hàng:</br>
+![img](XAC NHAN MUA HANG.png)
+
+
 
