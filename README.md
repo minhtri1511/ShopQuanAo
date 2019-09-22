@@ -48,15 +48,15 @@ FOOTER
 *Đăng Ký Không Thành Công Nếu Thiếu,Sai,Trùng Thông Tin:</br>
 ![img](dangkykhongthanhcong.png)
 *Đăng Ký Thành Công:</br>
-![img](dang ky thanh cong.img)
+![img](dangkythanhcong.img)
 *Đăng Nhập:
-![img](dang nhap.png)
+![img](dangnhap.png)
 *Đăng Nhập Thành Công:</br>
-![img](DANG NHAP THANH CONG.png)
+![img](DANGNHAPTHANHCONG.png)
 *Chi Tiết Giỏ Hàng:</br>
-![img](CHI TIET GIO HANG.png)
+![img](CHITIETGIOHANG.png)
 *Xác Nhận Mua Hàng:</br>
-![img](XAC NHAN MUA HANG.png)
+![img](XACNHANMUAHANG.png)
 
 
 
