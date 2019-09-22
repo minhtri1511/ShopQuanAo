@@ -43,7 +43,7 @@ FOOTER
 *Tính Năng Bình Luận Của Khách Hàng:</br>
 -Lưu Dữ Liệu Trong SQL
 ![img](binhluan.png)
-*Muốn Mua Hàng Bắt Buộc Phải Đăng Ký:</br>
+*Muốn Mua Hàng Bắt Buộc Phải Đăng Ký Hoặc Đăng Nhập Tài Khoản Đã Có :</br>
 ![img](dangky.png)
 *Đăng Ký Không Thành Công Nếu Thiếu,Sai,Trùng Thông Tin:</br>
 ![img](dangkykhongthanhcong.png)
