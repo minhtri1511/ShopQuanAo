@@ -48,7 +48,7 @@ FOOTER
 *Đăng Ký Không Thành Công Nếu Thiếu,Sai,Trùng Thông Tin:</br>
 ![img](dangkykhongthanhcong.png)
 *Đăng Ký Thành Công:</br>
-![img](dangkythanhcong.img)
+![img](dangkythanhcong.png)
 *Đăng Nhập:
 ![img](dangnhap.png)
 *Đăng Nhập Thành Công:</br>
