@@ -56,7 +56,11 @@ FOOTER
 *Chi Tiết Giỏ Hàng:</br>
 ![img](CHITIETGIOHANG.png)
 *Xác Nhận Mua Hàng:</br>
-![img](XACNHANMUAHANG.png)
+![img](XACNHANMUAHANG.png)</br>
+*Cơ Sở Dữ Liệu SQL Bình Luận Khách Hàng:</br>
+![img](binhluansql.png)
+*Cơ Sở Dữ Liệu SQL Lưu Trữ Thông Tin Đăng Nhập:</br>
+![img](dulieudangnhapsql.png)
 
 
 
