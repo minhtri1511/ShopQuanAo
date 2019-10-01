@@ -57,10 +57,6 @@ FOOTER
 ![img](CHITIETGIOHANG.png)
 *Xác Nhận Mua Hàng:</br>
 ![img](XACNHANMUAHANG.png)</br>
-*Cơ Sở Dữ Liệu SQL Bình Luận Khách Hàng:</br>
-![img](binhluansql.png)
-*Cơ Sở Dữ Liệu SQL Lưu Trữ Thông Tin Đăng Nhập:</br>
-![img](dulieudangnhapsql.png)
 *Cơ Sở Dữ Liệu SQL Sản Phẩm Quần Áo:</br>
 ![img](csdlquanao.png)
 *Cơ Sở Dữ Liệu Hóa Đơn Bán Lẻ:</br>
