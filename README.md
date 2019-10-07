@@ -60,7 +60,7 @@ FOOTER
 *Cơ Sở Dữ Liệu SQL Sản Phẩm Quần Áo:</br>
 ![img](csdlquanao.png)
 *Cơ Sở Dữ Liệu SQl Size Sản Phẩm Quần Áo: </br>
-![img](sizequanao.png)
+![img](sizesanpham.png)
 *Cơ Sở Dữ Liệu Hóa Đơn Bán Lẻ:</br>
 ![img](csdlhoadonbanle.png)
 *Cơ Sở Dữ Liệu Chi Tiết Hóa Đơn:</br>
